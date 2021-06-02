@@ -1,13 +1,14 @@
 {
-  "name": "canvas-jssdk",
-  "version": "1.0.0",
+  "name": "lrt-test-jssdk",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "vuex-oidc": "^3.4.1"
+    "vuex-oidc": "^3.4.1",
+    "jsdoc": "~3.4.0"
   },
   "repository": {
     "type": "git",
